@@ -1,0 +1,40 @@
+.calculator{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: burlywood;
+    border-radius: 5px;
+
+}
+.buttons{
+    text-align: center;
+    display: block;
+    border: 5px solid burlywood;
+    width: 198px;
+    
+    margin: 45px 260px;
+}
+.input{
+    border: 3px solid black;
+    margin: 7px 5px;
+    border-radius: 5px;
+    padding: 10px 0px;
+    margin-bottom: 4px;
+}
+.first{
+    border: 3px solid black;
+    font-size: 20px;
+    cursor: grab;
+    width: 39px;
+    border-radius: 5px;
+}
+.hidden{
+    display: none;
+}
+.car1{
+    display: block;
+    margin: 20px 15px;
+    
+}
+.ayush{
+    width: 81px;
+}
